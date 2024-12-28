@@ -22,3 +22,5 @@
    - pip install speechrecognition
    - pip install pyaudio
    - pip install pyttsx3
+
+![Screenshot 2024-12-28 204732](https://github.com/user-attachments/assets/cc78fc8b-7406-499f-be14-4ec23ea5d855)
