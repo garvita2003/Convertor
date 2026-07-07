@@ -76,15 +76,19 @@ Convertor-main/
 ## 📸 Demonstration
 
 1. Text-To-Image using GenAI
+
 ![Screenshot 2024-12-28 202533](https://github.com/user-attachments/assets/2e223a59-ef3d-4a47-9cf7-e035ecb08b74)
 
 2. Multilingual Text-To-Image
+
 ![Screenshot 2024-12-28 202556](https://github.com/user-attachments/assets/359e59cf-154f-4ea3-b477-177a7f57be30)
 
 3. Image-To-Text
+
 ![Screenshot 2024-12-28 202613](https://github.com/user-attachments/assets/3d94cfc8-49ff-4539-bd35-fda09475a20d)
 
 4. Speech-To-Text and Audio
+
 ![Screenshot 2024-12-28 204732](https://github.com/user-attachments/assets/cc78fc8b-7406-499f-be14-4ec23ea5d855)
 
 ---
