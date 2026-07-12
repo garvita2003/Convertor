@@ -65,7 +65,7 @@ The project combines notebook-based GenAI experiments with a standalone Python s
 ## 📂 Project Structure
 
 ```text
-Convertor-main/
+Convertor/
 ├── README.md                  # Project documentation
 ├── TextToImage.ipynb          # Notebook: text-to-image, multilingual generation, and image captioning
 └── SpeechToTextAudio.py       # Script: live speech-to-text with text-to-speech output
